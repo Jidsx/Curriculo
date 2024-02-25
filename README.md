@@ -1,2 +1,2 @@
 # Curriculo
-Currículo feito em HTMLL
+Currículo feito em HTML
