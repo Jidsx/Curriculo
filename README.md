@@ -1,2 +1,2 @@
 # Curriculo
-Currículo feito em HTML
+Currículo feito em HTML aula de Programação Web 
